@@ -1,2 +1,2 @@
 # Image-Colorisation
-We first revised Python.Then we started a Machine learning course on Coursea. We have completed the first 3 weeks of the course and are now doing week 4 and 5.  
+We first revised Python. Then we did the first 6 weeks of a Machine learning course by Andrews Ng on Coursea. For neural networks we refered to the book 'Neural Networks and Deep Lerning'. Then we learnt about CNNs through a blog. We learnt about the pytorch library through the pytorch tutorials on pytorch.org . Currently we are watching a youtube playlist of NPTEL-IITM on CNN architecture.
